@@ -1,8 +1,8 @@
 #include "esp_camera.h"
 #include <WiFi.h>
 
-const char* ssid = "realme85G";
-const char* password = "11111111";
+const char* ssid = "Wifi Name";
+const char* password = "Password";
 
 camera_config_t config = {
   .pin_pwdn = 32,
